@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Zakariya&fontSize=50&fontColor=ffffff" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Zakariya</h1>
 <h3 align="center">Full Stack Developer from Morocco 🇲🇦</h3>
 
@@ -25,7 +29,9 @@
 ---
 
 ### 📊 GitHub Stats
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyaaaaaa&layout=compact&theme=tokyonight" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zakariyaaaaaa&show_icons=true&theme=tokyonight" />
 </p>
