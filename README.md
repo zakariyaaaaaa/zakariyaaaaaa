@@ -86,6 +86,16 @@ Full Stack Developer from Morocco 🇲🇦
   </a>
 </p>
 
+<br>
+
+---
+
+## 📱 Scan Me
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zakariyaaaaaa/zakariyaaaaaa/main/qr.png" width="200" />
+</p>
+
 ---
 
 <p align="center">
