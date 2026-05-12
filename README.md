@@ -73,11 +73,11 @@ Full Stack Developer from Morocco 🇲🇦
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/i-r-h-a-b-i-yt-a0a9a3358/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="https://instagram.com">
+  <a href="https://www.instagram.com/zakariya_9f?igsh=MWdyaHlzYTMxcHQ5dA%3D%3D&utm_source=qr">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
