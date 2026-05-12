@@ -24,7 +24,7 @@ Full Stack Developer from Morocco 🇲🇦
 - 💻 Passionate about Web Development
 - ⚡ I love building modern & clean websites
 - 🎯 Goal: Become a professional Full Stack Developer
-- 📫 Reach me: **zakariyaboulane1@email.com**
+- 📫 Reach me: **zakariyaboulane1@gmail.com**
 
 <br>
 
