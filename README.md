@@ -10,7 +10,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hi, I'm Zakariya
+  Welcome to my GitHub Profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -68,7 +68,10 @@ const zakariya = {
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/zakariyaaaaaa">
+  <a href="https://github.com/zakariyaaaaaa?tab=repositories">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zakariyaaaaaa&repo=zakariyaaaaaa&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
+  </a>
+  <a href="https://github.com/zakariyaaaaaa?tab=repositories">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zakariyaaaaaa&repo=zakariyaaaaaa&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
   </a>
 </p>
@@ -116,16 +119,23 @@ const zakariya = {
 
 <p align="center">
   <a href="https://github.com/zakariyaaaaaa">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/i-r-h-a-b-i-yt-a0a9a3358/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/zakariya_9f">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:zakariyaboulane1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/yourphonenumber">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -138,4 +148,3 @@ const zakariya = {
 <p align="center">
   ⚡ <i>"Code. Learn. Build. Repeat."</i> ⚡
 </p>
-
